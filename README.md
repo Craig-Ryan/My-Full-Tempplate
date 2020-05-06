@@ -2,7 +2,7 @@
 
 Welcome!
 
-I created this page with whilst studying Git and Github in my fullstack web developers course with Code Institute.
+I created this page whilst studying Git and Github in my fullstack web developers course with Code Institute.
 
 Inside there are three HTML docs, a CSS folder with a css style doc for styling and this README.md file with a description on the project's layout.
 
